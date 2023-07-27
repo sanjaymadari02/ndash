@@ -1,6 +1,6 @@
 {
   "name": "ndash",
-  "main": "ndash",
+  "main": "ndash.js",
   "version": "1.0.0",
   "private": true,
   "scripts": {
